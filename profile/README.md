@@ -11,15 +11,8 @@ A RNP é responsável por fornecer uma infraestrutura de redes avançadas e serv
 
 ---
 
-## 🌍 Missão e Visão
-- **Missão**: Impulsionar a colaboração, inovação e o desenvolvimento tecnológico no Brasil.
-- **Visão**: Ser líder em infraestrutura digital para ensino e pesquisa, promovendo o avanço científico e educacional.
-
----
-
 ## 📡 Nossos Serviços
 - **Conectividade**: Rede acadêmica de alta performance, interligando instituições de ensino e pesquisa.
-- **Educação Digital**: Plataformas de ensino e recursos digitais para capacitação e aprendizagem.
 - **Cloud e Infraestrutura**: Soluções em nuvem e suporte para o setor acadêmico.
 - **Segurança**: Proteção de dados e integridade das redes educacionais.
 - **Eduplay**: Plataforma para conteúdos educacionais e conferências web.
