@@ -41,7 +41,7 @@ Respeitamos todos os membros da comunidade e mantemos um ambiente colaborativo e
 Para mais informações, visite nossos canais oficiais:
 
 - **Website**: [www.rnp.br](https://www.rnp.br)
-- **E-mail**: contato@rnp.br
+- **E-mail**: atendimento@rnp.br
 - **LinkedIn**: [RNP](https://www.linkedin.com/company/rnp/)
 
 Acompanhe nosso trabalho e junte-se a nós na missão de impulsionar a educação e pesquisa através da tecnologia!
