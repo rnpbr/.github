@@ -1,6 +1,5 @@
 # Rede Nacional de Ensino e Pesquisa (RNP)
 
-![RNP Banner](https://www.rnp.br/sites/site-publico/themes/sitepublico/logo.png)
 
 Bem-vindo ao perfil oficial da **Rede Nacional de Ensino e Pesquisa (RNP)** no GitHub! Aqui, compartilhamos projetos e iniciativas de tecnologia voltados para o avanço da pesquisa e educação no Brasil.
 
